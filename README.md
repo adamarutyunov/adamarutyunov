@@ -1,14 +1,12 @@
-### hi, i'm adam
+### adam
 
-developer & educator based in amsterdam. been programming my whole life, focused on web products for the last five years — mostly automating design and creation workflows.
-
-i care about creating new things, thinking ahead, and applying engineering agility.
+developer & educator based in amsterdam.
 
 ---
 
 ### projects
 
-**[launch](https://github.com/adamarutyunov/launch)** — terminal process manager for developers. run all your local services with one command, live log monitoring, cross-project dependencies, health checks. written in go.
+**[launch](https://github.com/adamarutyunov/launch)** — a terminal process manager for local development;
 
 ---
 
