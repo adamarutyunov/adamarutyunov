@@ -1,15 +1,16 @@
 ### adam
 
-developer & educator based in 🇳🇱 amsterdam.
+developer & educator based in 🇳🇱 amsterdam. more about me and my experience: [adam.ci](https://adam.ci)
 
 ---
 
 ### projects
 
-**[🚀 launch](https://github.com/adamarutyunov/launch)** — a terminal process manager for local development;
+**[🐿 squirrel](https://github.com/adamarutyunov/squirrel)** — the best context manager for running AI coding agents in parallel;  
+**[🚀 launch](https://github.com/adamarutyunov/launch)** — a terminal process manager for local development.
 
 ---
 
 ### find me
 
-⚫ [adam.ci](https://adam.ci) · [@_adamci](https://twitter.com/_adamci)
+[@_adamci](https://twitter.com/_adamci)
