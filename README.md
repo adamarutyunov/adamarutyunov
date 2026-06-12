@@ -12,7 +12,7 @@ i'm a software engineer & educator based in Amsterdam.
 
 **[🐿 squirrel](https://github.com/adamarutyunov/squirrel)** — the best context manager for running AI coding agents in parallel;  
 **[🚀 launch](https://github.com/adamarutyunov/launch)** — a terminal process manager for local development.  
-**[✏️ usp](https://github.com/adamarutyunov/launch)** — Ultimate Social Poster, a terminal tool + CLI + Action for adapting social media posts for different platforms and uploading them via APIs and browser automations.
+**[✏️ usp](https://github.com/adamarutyunov/usp)** — Ultimate Social Poster, a terminal tool + CLI + Action for adapting social media posts for different platforms and uploading them via APIs and browser automations.
 
 ## my lore
 
