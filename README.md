@@ -1,4 +1,4 @@
-## adam arutyunov
+## me
 
 hey, I'm Adam!
 
